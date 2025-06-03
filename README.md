@@ -1,4 +1,4 @@
 # project
 1st  repository
 <br>
-Author - chiku
+Author - chiku (tem x)
